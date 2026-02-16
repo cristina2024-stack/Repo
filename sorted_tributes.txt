@@ -1,0 +1,15 @@
+11|Finnick Odair|ALIVE|9|4
+1|Katniss Everdeen|ALIVE|9|12
+13|Brutus|DEAD|8|2
+9|Cato|ALIVE|8|2
+2|Johanna Mason|ALIVE|8|7
+5|Thresh|ALIVE|8|11
+15|Beetee|ALIVE|7|3
+3|Foxface|DEAD|7|5
+8|Marvel|DEAD|7|1
+10|Peeta Mellark|ALIVE|7|12
+12|Annie Cresta|ALIVE|6|4
+4|Clove|DEAD|6|2
+7|Glimmer|DEAD|6|1
+14|Wiress|DEAD|6|3
+6|Rue|DEAD|5|11
